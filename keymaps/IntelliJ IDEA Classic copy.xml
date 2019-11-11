@@ -1,0 +1,18 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta w" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="GotoNextElementUnderCaretUsage" />
+  <action id="GotoPrevElementUnderCaretUsage" />
+</keymap>
