@@ -31,7 +31,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="sf" value="String.format(&quot;$END$&quot;)" toReformat="false" toShortenFQNames="true">
+  <template name="sf" value="String.format(&quot;$END$&quot;)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
