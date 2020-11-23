@@ -1,5 +1,5 @@
 <application>
-  <component name="ToStringTemplates" defaultTemplateName="my-toString()">
+  <component name="ToStringTemplates" defaultTemplateName="String concat (+) and super.toString()">
     <option name="templates">
       <list>
         <TemplateResource>
