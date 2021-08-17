@@ -5,4 +5,9 @@
   <codeStyleSettings language="JAVA">
     <option name="FIELD_ANNOTATION_WRAP" value="5" />
   </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
