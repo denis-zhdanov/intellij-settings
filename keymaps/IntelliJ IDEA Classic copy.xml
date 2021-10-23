@@ -15,4 +15,5 @@
   </action>
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoPrevElementUnderCaretUsage" />
+  <action id="ResizeToolWindowRight" />
 </keymap>
