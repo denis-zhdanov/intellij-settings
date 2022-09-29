@@ -5,6 +5,7 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="EditorContextInfo" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -15,5 +16,8 @@
   </action>
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoPrevElementUnderCaretUsage" />
+  <action id="QuickList.vcs">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
   <action id="ResizeToolWindowRight" />
 </keymap>

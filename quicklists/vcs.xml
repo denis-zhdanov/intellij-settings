@@ -1,0 +1,4 @@
+<list display="vcs">
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="Annotate" />
+</list>
